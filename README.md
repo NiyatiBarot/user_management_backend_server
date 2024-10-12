@@ -20,4 +20,4 @@ This repository is used for user management CRUD operations built with TypeScrip
 npm install
 npm run dev
 
-
+### Get the postman collection use => Users-Management-postman_collection.json which located into project folder
